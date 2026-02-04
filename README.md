@@ -1,4 +1,4 @@
-# programming1WS22
+# ProgrammingSS2026
 The repository of the course "Introduction to Programming" at UNI Graz.
 
 - summer semester 25/26
