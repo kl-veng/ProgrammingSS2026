@@ -18,13 +18,13 @@ To use the notebooks make sure you have installed:
 Clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/lucijakrusic/programming1WS22.git
+git clone https://github.com/kl-veng/ProgrammingSS2026.git
 ```
 
 Then change into `programming1WS22` directory and start the Jupyter server:
 
 ```bash
-cd programming1WS22
+cd ProgrammingSS2026
 ```
 
 ```bash
@@ -37,7 +37,7 @@ or, if you have installed jupyterlab:
 jupyter-lab
 ```
 
-This will bring up your browser and will show you the contents of the `programming1WS22` directory.
+This will bring up your browser and will show you the contents of the `ProgrammingSS2026` directory.
 
 
 
