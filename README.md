@@ -1,9 +1,9 @@
-# programming1WS22
-The repository of the course "Programming 1" at UNI Graz.
+# ProgrammingSS2026
+The repository of the course "Introduction to Programming" at UNI Graz.
 
-- winter semester 22/23, winter semester 23/24
+- summer semester 25/26
 
-  Course adapted from:  https://github.com/gvasold/gdp21 by Gunter Vasold.
+  Course adapted from:  https://github.com/lucijakrusic/IP23 by Lucija Krusic, originally adapted from https://github.com/gvasold/gdp21 by Gunter Vasold.
 
 It will contain all Jupyter Notebooks and example data that we will use during the course. All notebooks will be in English.
 
@@ -18,13 +18,13 @@ To use the notebooks make sure you have installed:
 Clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/lucijakrusic/programming1WS22.git
+git clone https://github.com/kl-veng/ProgrammingSS2026.git
 ```
 
 Then change into `programming1WS22` directory and start the Jupyter server:
 
 ```bash
-cd programming1WS22
+cd ProgrammingSS2026
 ```
 
 ```bash
@@ -37,10 +37,10 @@ or, if you have installed jupyterlab:
 jupyter-lab
 ```
 
-This will bring up your browser and will show you the contents of the `programming1WS22` directory.
+This will bring up your browser and will show you the contents of the `ProgrammingSS2026` directory.
 
 
 
 ## License
 
-All notebooks are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).
+All notebooks were originally created By Lucija Krusic and are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).
