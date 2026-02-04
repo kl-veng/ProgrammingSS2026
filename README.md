@@ -43,4 +43,4 @@ This will bring up your browser and will show you the contents of the `Programmi
 
 ## License
 
-All notebooks are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).
+All notebooks were originally created By Lucija Krusic and are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).
