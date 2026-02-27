@@ -21,7 +21,7 @@ Clone the repository from GitHub:
 git clone https://github.com/kl-veng/ProgrammingSS2026.git
 ```
 
-Then change into `programming1WS22` directory and start the Jupyter server:
+Then change into `ProgrammingSS2026` directory and start the Jupyter server:
 
 ```bash
 cd ProgrammingSS2026
