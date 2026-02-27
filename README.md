@@ -3,7 +3,7 @@ The repository of the course "Introduction to Programming" at UNI Graz.
 
 - summer semester 25/26
 
-  Course adapted from:  https://github.com/lucijakrusic/IP23 by Lucija Krusic, originally adapted from https://github.com/gvasold/gdp21 by Gunter Vasold.
+  Course adapted from:  https://github.com/lucijakrusic/IP23 by Lucija Krusic, originally adapted from https://github.com/gvasold/gdp by Gunter Vasold.
 
 It will contain all Jupyter Notebooks and example data that we will use during the course. All notebooks will be in English.
 
